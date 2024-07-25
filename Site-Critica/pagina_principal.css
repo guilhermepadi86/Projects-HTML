@@ -1,0 +1,28 @@
+div{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#index{
+    border: 10px transparent solid;
+    background-color: coral;
+    border-radius: 12px;
+}
+
+.sobre{
+    border: solid 1px transparent;
+    box-shadow: 4px 4px rgb(181, 90, 57);
+    color: white;
+    background-color: coral;
+    color: black;
+    border-radius: 12px;
+    width: 50%;
+    height: auto;
+    padding: 15px;
+}
+
+div p{
+    color: coral;
+}

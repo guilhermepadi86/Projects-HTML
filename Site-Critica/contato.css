@@ -1,0 +1,41 @@
+.contato{
+    text-align: center;
+    color: coral;
+}
+
+#contato{
+    border: 10px transparent solid;
+    background-color: coral;
+    border-radius: 12px;
+}
+
+.card{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.formulario{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    border: 1px solid transparent;
+    background-color: coral;
+    color: black;
+    border-radius: 12px;
+    box-shadow: 4px 4px rgb(181, 90, 57);
+    padding: 20px;
+    width: 50%;
+}
+
+.cadastro{
+    text-align: center;
+    padding: 10px;
+    width: 50%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}

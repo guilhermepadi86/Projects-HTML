@@ -1,0 +1,43 @@
+h2{
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+#criador{
+    border: 10px transparent solid;
+    background-color: coral;
+    border-radius: 12px;
+}
+
+table, th, td{
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+}
+
+table{
+    border-radius: 12px;
+    width: 100%;
+}
+
+div{
+    padding: 10px;
+}
+
+#cabecalho{
+    color: rgb(107, 0, 0);
+}
+
+.cabecalho{
+    background-color: coral;
+}
+.nome1{
+    background-color: darkcyan;
+    color: rgb(0, 252, 0);
+}
+
+.nome2{
+    background-color: deeppink;
+    color: rgb(255, 145, 0);
+}

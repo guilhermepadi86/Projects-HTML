@@ -1,0 +1,58 @@
+html{
+    padding-bottom: 200px;
+}
+
+#criticas{
+    border: 10px transparent solid;
+    background-color: coral;
+    border-radius: 12px;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+}
+
+#allcards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 300px;
+    border: solid 1px coral;
+    background-color: coral;
+    border-radius: 12px;
+    overflow: hidden;
+    margin: 20px;
+    box-shadow: 4px 4px rgb(181, 90, 57);
+}
+
+img{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+    border-radius: 40px;
+    padding-top: 10px;
+    scale: 0.9;
+}
+
+.card-texto{
+    padding: 20px;
+}
+
+.botao button{
+    cursor: pointer;
+}
+
+.botao a{
+    text-decoration: none;
+}
+
+.botao :hover{
+    transition: 0.3s;
+    color: rgb(255, 68, 0);
+}
